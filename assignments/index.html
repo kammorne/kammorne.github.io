@@ -6,7 +6,7 @@ title: Assignments / Projects
     <p>Listed Below are all the assignments / projects that we have completed over the semester.</p>
         <ul class="posts">
           {% for tag in tags %}
-            <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+            <h2 id="{{ tag | assignment }}">{{ tag }}</h2>
             <ul>
              {% for post in site.posts %}
                {% if post.tags contains tag %}
@@ -17,7 +17,7 @@ title: Assignments / Projects
                <small>{{ post.date | date_to_string }}</small>
                </a>
                {% for tag in post.tags %}
-                 <a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+                 <a class="tag" href="/blog/tag/#{{ tag | assignment }}">{{ tag }}</a>
                {% endfor %}
                </h3>
                </li>
