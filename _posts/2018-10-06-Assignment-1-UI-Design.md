@@ -3,7 +3,7 @@ layout: post
 title: "Assignment 1 UI Design"
 date: 2018-10-06
 category: Assignments
-tags: [assignment, jekyll]
+tags: assignment jekyll
 ---
 # IN614 User Interface Design
 
