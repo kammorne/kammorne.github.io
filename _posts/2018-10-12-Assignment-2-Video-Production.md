@@ -3,7 +3,7 @@ layout: post
 title: "Assignment 2 Video Production"
 date: 2018-10-12
 category: Assignments
-tags: [assignment, jekyll]
+tags: assignment jekyll
 ---
 # IN614 Video Production
 
