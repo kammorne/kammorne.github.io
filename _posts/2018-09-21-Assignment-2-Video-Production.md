@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Assignment 2 Video Production"
-date: 2018-10-12
+date: 2018-09-21
 category: Assignments
 tags: assignment jekyll
 ---
