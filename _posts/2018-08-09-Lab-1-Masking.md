@@ -6,4 +6,5 @@ category: Classwork
 tags: classwork jekyll
 ---
 # Photoshop Masking Lab
-![Masking](https://kammorne.github.io/img/classwork/L1Masking.jpg "Lab 1, Masking")
+
+![Masking](https://kammorne.github.io/img/classwork/L1Masking.jpg)
