@@ -7,4 +7,4 @@ tags: classwork jekyll
 ---
 # Design Principles Lab
 
-![Masking](https://kammorne.github.io/img/classwork/L4DesignPrinciples.jpg)
+![Design Principles](https://kammorne.github.io/img/classwork/L4DesignPrinciples.jpg)
