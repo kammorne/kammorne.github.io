@@ -7,4 +7,4 @@ tags: classwork jekyll
 ---
 # Illustrator Beginners Lab
 
-![Masking](https://kammorne.github.io/img/classwork/L3TeddyBear.jpg)
+![Teddy Bear](https://kammorne.github.io/img/classwork/L3TeddyBear.jpg)
