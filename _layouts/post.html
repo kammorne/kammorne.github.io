@@ -6,7 +6,7 @@ layout: default
 <div class="tags">
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tags/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  <a href="/tags/{{ tag_name }}"><u><nobr>{{ tag_name }}</nobr></u>&nbsp;</a>
   {% endfor %}
 </div>
 {{ content }}
