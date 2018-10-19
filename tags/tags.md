@@ -8,13 +8,13 @@ title: Tags
 
   {% if tags_list.first[0] == null %}
     {% for tag in tags_list %}
-      <a href="/tags#{{ tag }}-ref" class='list-group-item'>
+      <a href="/tags/{{ tag }}" class='list-group-item'>
         {{ tag }} <span class='badge'>{{ site.tags[tag].size }}</span>
       </a>
     {% endfor %}
   {% else %}
     {% for tag in tags_list %}
-      <a href="/tags/{{ tag[0] }}.md" class='list-group-item'>
+      <a href="/tags/{{ tag[0] }}" class='list-group-item'>
         {{ tag[0] }} <span class='badge'>{{ tag[1].size }}</span>
       </a>
     {% endfor %}
@@ -25,7 +25,7 @@ title: Tags
 
 
 {% for tag in site.tags %}
-  <h2 class='tag-header' id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
+  <h2 class='tag-header' id="{{ tag[0] }}">{{ tag[0] }}</h2>
   <ul>
     {% assign pages_list = tag[1] %}
 
