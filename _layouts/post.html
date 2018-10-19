@@ -6,7 +6,7 @@ layout: default
 {% if page.tags == null %}
 {% else %} 
   {% for tag in page.tags %}
-   <a href="/tags#{{ tag | slugify }}-ref"> • {{ tag | capitalize}}</a>
+   <a href="/tags/{{ tag | slugify }}"> • {{ tag | capitalize}}</a>
   {% endfor %}
 {% endif %}
 {{ content }}
