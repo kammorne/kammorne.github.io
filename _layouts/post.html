@@ -3,10 +3,10 @@ layout: default
 ---
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
-{% if page.tags == null %}
-{% else %} 
+<span>[
   {% for tag in page.tags %}
-   <a href="/tags/{{ tag | slugify }}"> • {{ tag | capitalize}}</a>
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
-{% endif %}
+]</span>
 {{ content }}
