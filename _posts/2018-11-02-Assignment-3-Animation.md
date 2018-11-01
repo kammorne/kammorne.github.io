@@ -44,6 +44,10 @@ Other than the slight problem I had with the Library, the Library was really han
 
 I was honestly a bit stumped with how I should have exported the project, as I experienced many problems with exporting along the way. Originally I was going to have it just be in .html format, but that caused issues with the sound only playing half of the time, and it only playing once. When I exported the file as a video .mov file, It didn't recognize the sounds at all, and the file size was extremely big for such a simple animation. Eventually I exported the file to the .swf file format, but my computer didn't recognize the file, even though Flash Player was installed, so I had to test the file at Polytech, only to find the audio had been extremely bit-crushed. Unsure what other option I had, I decided to just deal with the bit-crushed sounds, as it was the only format that readily recognized the sounds and played them more than once.
 
+### Update
+
+I found out that to correctly export to .swf I had to adjust the publish settings, however, the original HTML5 Canvas option does not support publish settings for .swf files, so I had to convert my file to a Flash Player Canvas before I could adjust the settings and fix the audio quality of my animation.
+
 ## Final Thoughts
 
 Overall, I'm glad that I managed to get my animation done, as I found it difficult to get motivated to complete it at times. The art style I aimed for seems to be exactly like the Trailer I was basing it off of, and I'm happy it turned out alright.
