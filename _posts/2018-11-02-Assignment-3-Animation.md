@@ -9,7 +9,7 @@ tags: assignment jekyll
 
 ## Animation Clip
 
-<embed src="https://kammorne.github.io/img/assignment3/Animation.swf"/>
+<embed src="https://kammorne.github.io/img/assignment3/Animation.swf" width="800" height="600" scale="tofit"/>
 
 ## Inspiration
 
