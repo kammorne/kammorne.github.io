@@ -15,6 +15,10 @@ tags: assignment jekyll
 
 I had a lot of trouble coming up with an idea for my animation, going through different ideas originally, which ended up being scrapped when I realized the idea would be too difficult to finish by the due date. In the end, I got my idea from the [Portal Trailer](https://www.youtube.com/watch?v=-cO_DIVuSyQ) created by [Valve Corporation](https://www.valvesoftware.com/en/). My animation is mostly based on the linked video, however I added my own spin on it from a project I am personally working on, which is built off the Portal game. I found the art style easy enough to work with and decided to make my animation based on it since I believed I would be able to complete it on time.
 
+## Storyboards
+
+![Storyboards](https://kammorne.github.io/img/assignment3/Storyboards.png "Storyboards")
+
 ## Tools/Processes Used
 
 I mainly used Adobe Animate to create my Animation, although I did consider using Adobe Illustrator for creation of some of the symbols, although I eventually decided against that, as the tools provided in Adobe Animate were sufficient enough for the animation I was creating.
