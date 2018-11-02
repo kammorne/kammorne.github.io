@@ -17,7 +17,7 @@ I had a lot of trouble coming up with an idea for my animation, going through di
 
 ## Storyboards
 
-![Storyboards](https://kammorne.github.io/img/assignment3/Storyboards.png "Storyboards")
+![Storyboards](https://kammorne.github.io/img/assignment3/Storyboards.jpg "Storyboards")
 
 ## Tools/Processes Used
 
