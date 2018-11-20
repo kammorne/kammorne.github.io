@@ -9,4 +9,4 @@ tags: assignment jekyll
 
 There doesn't seem to be anything here yet... Perhaps the Assignment is still being worked on?
 
-<iframe src="https://kammorne.github.io/assignments/InteractiveMap.html" width="800px" height="800px"></iframe>
+<iframe src="https://kammorne.github.io/assignments/InteractiveMap.html" style="height: 800px; overflow:hidden; width: 800px"></iframe>
